@@ -1,0 +1,16 @@
+building tutorial:
+
+use the following command on the main.py directory, TTT
+
+pyinstaller -D -F -n main -c "main.py"
+
+and copy and paste the following folders to the created directory called dict:
+
+gui,evaluation_scripts,statistics
+
+and the file get_pip.py, too.
+
+
+
+
+To use: ./main
